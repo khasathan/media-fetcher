@@ -1,0 +1,14 @@
+{
+    "env": {
+        "node": true,
+        "mocha": true,
+        "es6": true
+    },
+    "extends": "standard",
+    "rules": {
+        "no-trailing-spaces": ["error"],
+        "comma-dangle": ["error", "always-multiline"],
+        "indent": ["error", 4],
+        "semi": ["error", "always"]
+    }
+}

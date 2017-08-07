@@ -1,0 +1,11 @@
+**/secrets/**
+**/secret/**
+node_modules
+log
+logs
+pid
+
+*.swp
+*.log
+*.pid
+*.DS_STORE
